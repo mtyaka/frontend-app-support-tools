@@ -28,7 +28,7 @@
     "url": "https://github.com/openedx/frontend-app-support/issues"
   },
   "dependencies": {
-    "@edx/brand": "npm:@edx/brand-edx.org@^1.4.2",
+    "@edx/brand": "npm:@edx/brand-edx.org@2.0.8",
     "@edx/frontend-platform": "^1.15.6",
     "@edx/paragon": "^12.8.0",
     "@fortawesome/fontawesome-svg-core": "1.2.32",
